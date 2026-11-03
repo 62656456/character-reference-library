@@ -1,0 +1,54 @@
+name: Publish website from private source
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Read private website source
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ secrets.WEBSITE_SOURCE_REPOSITORY }}
+          ref: ${{ secrets.WEBSITE_SOURCE_REF }}
+          ssh-key: ${{ secrets.WEBSITE_SOURCE_KEY }}
+          persist-credentials: false
+          path: website
+          sparse-checkout: |
+            scripts
+            data
+            media/previews
+            media/decorations
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+      - name: Build public website
+        run: node website/scripts/build-pages.mjs --repository-originals --out "$RUNNER_TEMP/character-reference-pages"
+      - name: Upload website
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: ${{ runner.temp }}/character-reference-pages
+          retention-days: 1
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Publish website
+        id: deployment
+        uses: actions/deploy-pages@v4
