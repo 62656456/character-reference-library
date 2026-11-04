@@ -29,6 +29,8 @@ jobs:
             data
             media/previews
             media/decorations
+            vendor
+            assets
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
@@ -36,7 +38,7 @@ jobs:
       - name: Configure Pages
         uses: actions/configure-pages@v5
       - name: Build public website
-        run: node website/scripts/build-pages.mjs --repository-originals --out "$RUNNER_TEMP/character-reference-pages"
+        run: node website/scripts/build-pages.mjs --published-originals "$GITHUB_WORKSPACE/website/data/published-originals.json" --out "$RUNNER_TEMP/character-reference-pages"
       - name: Upload website
         uses: actions/upload-pages-artifact@v4
         with:
