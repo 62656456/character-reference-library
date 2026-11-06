@@ -69,11 +69,21 @@
 
 站主可在[运营后台](https://character-reference-community-62656456.eager-rain-5354.chatgpt.site/?tab=admin)审核投稿、编辑素材资料、发布或下架素材、批量操作、导入与导出元数据，并查看使用统计与操作日志。管理功能有权限控制，普通账号只管理自己的投稿。
 
+## Agent 调用技能
+
+[打开通用 Agent Skill](skills/character-reference-library/SKILL.md) · [查看助手脚本](skills/character-reference-library/scripts/atlas.py)
+
+技能用于查找人物、发型、服装、表情和动作，整理完整文字与明确的参考图职责，并下载本次选定的图片。采用标准 `SKILL.md`；支持该格式的宿主可安装技能文件夹，其他能读取 Markdown 与 HTTP 数据的 Agent 也可按说明使用。可选助手脚本只需 Python 3.9+，没有第三方运行依赖，无需克隆全部图库图片。
+
+让 Agent 读取：[SKILL.md 原文](https://raw.githubusercontent.com/62656456/character-reference-library/main/skills/character-reference-library/SKILL.md)，再说明你想创作的角色。技能不会自行收费或提供站主密钥；实际生图使用该 Agent 的图像工具或使用者自行配置的 API。素材使用范围仍遵循每个条目及 [图片使用说明](ASSET-LICENSE.md)。
+
 ## 支持与交流
 
-如果这个图库对你有帮助，欢迎自愿支持它继续更新。[支持与交流页](https://62656456.github.io/character-reference-library/#view=support)提供 **微信、支付宝打赏二维码**，以及独立的 **添加微信二维码**，可以放大查看。
+如果这个图库帮到了你，欢迎自愿打赏，支持它继续更新。打赏完全自愿，不影响浏览、技能调用、组合和导出，也不替代图片使用授权。
 
-也欢迎添加微信，交流 AIGC 行业的未来、AI 创作与技术实践。打赏完全自愿，不影响浏览使用，也不替代图片使用授权。
+<img src="media/support/support-library-card.png" width="380" alt="支持角色创作库：微信自愿打赏二维码">
+
+[打开支持与交流页](https://62656456.github.io/character-reference-library/#view=support)可切换微信、支付宝，并查看独立的添加微信入口，交流 AIGC 创作与技术。
 
 ## 来源与使用规则
 
@@ -85,7 +95,7 @@
 
 ## 仓库公开范围
 
-本仓库公开参考图片、使用说明和必要的发布配置。网站源码、完整生产数据、社区服务实现、账户资料及私人联系记录另行保存。正常浏览时发送给访客的页面文件和展示信息仍可被读取；源码私有不等于阻止复制公开页面，也不追溯撤回此前已合法取得的许可。
+本仓库公开参考图片、使用说明、Agent 调用技能及必要的发布配置。公开技能目录是明确提供给 Agent 读取与调用的独立入口。网站源码、完整生产数据、社区服务实现、账户资料及私人联系记录另行保存。正常浏览时发送给访客的页面文件和展示信息仍可被读取；源码私有不等于阻止复制公开页面，也不追溯撤回此前已合法取得的许可。
 
 ---
 
