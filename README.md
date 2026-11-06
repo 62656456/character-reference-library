@@ -79,11 +79,19 @@
 
 ## 支持与交流
 
-如果这个图库帮到了你，欢迎自愿打赏，支持它继续更新。打赏完全自愿，不影响浏览、技能调用、组合和导出，也不替代图片使用授权。
+如果这个图库帮到了你，欢迎自愿支持它继续更新。也欢迎添加微信，交流 AIGC 创作与技术。打赏完全自愿，不影响浏览、技能调用、组合和导出，也不替代图片使用授权。
 
-<img src="media/support/support-library-card.png" width="380" alt="支持角色创作库：微信自愿打赏二维码">
+<table>
+<tr><th>微信打赏</th><th>支付宝打赏</th><th>加好友交流</th></tr>
+<tr>
+<td align="center"><img src="media/support/wechat-donation-qr.png" width="210" alt="微信自愿打赏二维码"></td>
+<td align="center"><img src="media/support/alipay-donation-qr.png" width="210" alt="支付宝自愿打赏二维码"></td>
+<td align="center"><img src="media/support/wechat-friend-qr.png" width="210" alt="微信好友二维码，用于创作交流"></td>
+</tr>
+<tr><td align="center">微信扫一扫</td><td align="center">支付宝扫一扫</td><td align="center">微信扫一扫，加好友交流</td></tr>
+</table>
 
-[打开支持与交流页](https://62656456.github.io/character-reference-library/#view=support)可切换微信、支付宝，并查看独立的添加微信入口，交流 AIGC 创作与技术。
+二维码来自站主提供的原图，完整保留码面与白色留白；点击图片可查看大图。[网站支持与交流页](https://62656456.github.io/character-reference-library/#view=support)保留对应入口。好友二维码用于交流，与打赏二维码分开。
 
 ## 来源与使用规则
 
