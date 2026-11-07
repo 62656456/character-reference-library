@@ -1,0 +1,201 @@
+{
+  "source": "https://github.com/wquguru/shisei",
+  "version": "v0.4.1",
+  "license": "CC0-1.0",
+  "licenseEvidence": "https://github.com/wquguru/shisei/blob/v0.4.1/LICENSE-images",
+  "notice": "https://github.com/wquguru/shisei/blob/v0.4.1/NOTICE",
+  "sourceImagesUnmodified": true,
+  "notAnimations": true,
+  "items": [
+    {
+      "id": "open-static-3ffe88de16c6",
+      "sourceId": "S001",
+      "sourceUrl": "https://raw.githubusercontent.com/wquguru/shisei/v0.4.1/images/line/w900/sexy_S001_front.webp",
+      "sourceSha256": "3ffe88de16c69c05c39928d482ee164a3584ca58fde31290d2b419ceecd6400a",
+      "sourceView": "front",
+      "title": "叉腰交叠站姿",
+      "group": "站姿与重心",
+      "image": "./media/originals/open-static-3ffe88de16c6.webp"
+    },
+    {
+      "id": "open-static-c4cb05f10ccf",
+      "sourceId": "S007",
+      "sourceUrl": "https://raw.githubusercontent.com/wquguru/shisei/v0.4.1/images/line/w900/sexy_S007_front.webp",
+      "sourceSha256": "c4cb05f10ccfe24022245eba90531fe617d7065e2956607b2534e8d7c606e760",
+      "sourceView": "front",
+      "title": "背向转身站姿",
+      "group": "站姿与重心",
+      "image": "./media/originals/open-static-c4cb05f10ccf.webp"
+    },
+    {
+      "id": "open-static-bdfe6546eddd",
+      "sourceId": "S011",
+      "sourceUrl": "https://raw.githubusercontent.com/wquguru/shisei/v0.4.1/images/line/w900/sexy_S011_front.webp",
+      "sourceSha256": "bdfe6546eddd2f9d4f9823e305332025d0579f888ca8e87314af6a2c14dbf92e",
+      "sourceView": "front",
+      "title": "双臂交叠上伸",
+      "group": "伸展与平衡",
+      "image": "./media/originals/open-static-bdfe6546eddd.webp"
+    },
+    {
+      "id": "open-static-a96a8105c911",
+      "sourceId": "S012",
+      "sourceUrl": "https://raw.githubusercontent.com/wquguru/shisei/v0.4.1/images/line/w900/sexy_S012_front.webp",
+      "sourceSha256": "a96a8105c911f2936db8b9eabca7bb1db5597cbc8067ba508c9dfc79241010ab",
+      "sourceView": "front",
+      "title": "单腿侧举平衡",
+      "group": "伸展与平衡",
+      "image": "./media/originals/open-static-a96a8105c911.webp"
+    },
+    {
+      "id": "open-static-0e49f6844734",
+      "sourceId": "S014",
+      "sourceUrl": "https://raw.githubusercontent.com/wquguru/shisei/v0.4.1/images/line/w900/sexy_S014_front.webp",
+      "sourceSha256": "0e49f68447346aa14e5f5b188c9646f5ca64813eeeedb9fe89df037af3b69676",
+      "sourceView": "front",
+      "title": "站姿前屈垂臂",
+      "group": "伸展与平衡",
+      "image": "./media/originals/open-static-0e49f6844734.webp"
+    },
+    {
+      "id": "open-static-a820b40e067d",
+      "sourceId": "S030",
+      "sourceUrl": "https://raw.githubusercontent.com/wquguru/shisei/v0.4.1/images/line/w900/sexy_S030_front.webp",
+      "sourceSha256": "a820b40e067d84b9e3e8db882acacc546587ed2a4ca5aa3fdaec289dd47477f3",
+      "sourceView": "front",
+      "title": "抱膝并腿坐姿",
+      "group": "坐姿与重心",
+      "image": "./media/originals/open-static-a820b40e067d.webp"
+    },
+    {
+      "id": "open-static-6024e2c8abee",
+      "sourceId": "S035",
+      "sourceUrl": "https://raw.githubusercontent.com/wquguru/shisei/v0.4.1/images/line/w900/sexy_S035_front.webp",
+      "sourceSha256": "6024e2c8abee61eb9134025f53b215c24d22462eb657521c4c85d77fa10ff0a5",
+      "sourceView": "front",
+      "title": "单膝跪地扶腿",
+      "group": "蹲跪",
+      "image": "./media/originals/open-static-6024e2c8abee.webp"
+    },
+    {
+      "id": "open-static-b3bea47a868d",
+      "sourceId": "S038",
+      "sourceUrl": "https://raw.githubusercontent.com/wquguru/shisei/v0.4.1/images/line/w900/sexy_S038_front.webp",
+      "sourceSha256": "b3bea47a868d2d22fdc89b88a699d38b8872fed1af9369d24939c27b4a27f648",
+      "sourceView": "front",
+      "title": "跪姿握踝后伸",
+      "group": "伸展与平衡",
+      "image": "./media/originals/open-static-b3bea47a868d.webp"
+    },
+    {
+      "id": "open-static-231db13c8e7b",
+      "sourceId": "S048",
+      "sourceUrl": "https://raw.githubusercontent.com/wquguru/shisei/v0.4.1/images/line/w900/sexy_S048_front.webp",
+      "sourceSha256": "231db13c8e7b9e9eddc14283c9e5938e45ec991363f36908e8c52c23e36d46c4",
+      "sourceView": "front",
+      "title": "俯撑挺身伸展",
+      "group": "俯撑与支撑",
+      "image": "./media/originals/open-static-231db13c8e7b.webp"
+    },
+    {
+      "id": "open-static-a48084bf0254",
+      "sourceId": "S050",
+      "sourceUrl": "https://raw.githubusercontent.com/wquguru/shisei/v0.4.1/images/line/w900/sexy_S050_diag.webp",
+      "sourceSha256": "a48084bf02549e7cd92523c0dfac431084d5b597549a94229f9247eed04bbcec",
+      "sourceView": "diag",
+      "title": "屈膝侧收躺姿",
+      "group": "躺卧与翻转",
+      "image": "./media/originals/open-static-a48084bf0254.webp"
+    },
+    {
+      "id": "open-static-f816a7df6adc",
+      "sourceId": "S053",
+      "sourceUrl": "https://raw.githubusercontent.com/wquguru/shisei/v0.4.1/images/line/w900/sexy_S053_front.webp",
+      "sourceSha256": "f816a7df6adcfecd77467931cc28ca01b539c0a870efa7d893272de9c91e9ce7",
+      "sourceView": "front",
+      "title": "侧卧前臂支撑",
+      "group": "俯撑与支撑",
+      "image": "./media/originals/open-static-f816a7df6adc.webp"
+    },
+    {
+      "id": "open-static-0d81907ba11c",
+      "sourceId": "S059",
+      "sourceUrl": "https://raw.githubusercontent.com/wquguru/shisei/v0.4.1/images/line/w900/sexy_S059_side.webp",
+      "sourceSha256": "0d81907ba11cf31cce7fc10991cf1c77ed0ecac2ffc459c7f2d3bd114582c361",
+      "sourceView": "side",
+      "title": "仰卧屈膝举臂",
+      "group": "躺卧与翻转",
+      "image": "./media/originals/open-static-0d81907ba11c.webp"
+    },
+    {
+      "id": "open-static-d28a53e8a6ce",
+      "sourceId": "S065",
+      "sourceUrl": "https://raw.githubusercontent.com/wquguru/shisei/v0.4.1/images/line/w900/sexy_S065_front.webp",
+      "sourceSha256": "d28a53e8a6ce3eb1640d7bdc4ac3b7ca11738aa4bdab74aada60ecce6bdb9467",
+      "sourceView": "front",
+      "title": "侧撑坐姿扶后颈",
+      "group": "坐姿与重心",
+      "image": "./media/originals/open-static-d28a53e8a6ce.webp"
+    },
+    {
+      "id": "open-static-52d2a4e6db02",
+      "sourceId": "S067",
+      "sourceUrl": "https://raw.githubusercontent.com/wquguru/shisei/v0.4.1/images/line/w900/sexy_S067_front.webp",
+      "sourceSha256": "52d2a4e6db02bd357d6643e0d7443169fd7f4efbb293b70b9334e1eae441161f",
+      "sourceView": "front",
+      "title": "仰卧握腿收膝",
+      "group": "躺卧与翻转",
+      "image": "./media/originals/open-static-52d2a4e6db02.webp"
+    },
+    {
+      "id": "open-static-fc8a8755ee81",
+      "sourceId": "S068",
+      "sourceUrl": "https://raw.githubusercontent.com/wquguru/shisei/v0.4.1/images/line/w900/sexy_S068_diag.webp",
+      "sourceSha256": "fc8a8755ee8196f571788d74ad5a924fbf7f09ac90c06670e6997aeacb644091",
+      "sourceView": "diag",
+      "title": "仰卧屈膝后卷",
+      "group": "躺卧与翻转",
+      "image": "./media/originals/open-static-fc8a8755ee81.webp"
+    },
+    {
+      "id": "open-static-0951379ca10b",
+      "sourceId": "S072",
+      "sourceUrl": "https://raw.githubusercontent.com/wquguru/shisei/v0.4.1/images/line/w900/sexy_S072_diag.webp",
+      "sourceSha256": "0951379ca10b34412e9b7a63fa98a721e8c4a7951ccfc44b338100262677982a",
+      "sourceView": "diag",
+      "title": "四点支撑后桥",
+      "group": "伸展与平衡",
+      "image": "./media/originals/open-static-0951379ca10b.webp"
+    },
+    {
+      "id": "open-static-b5ad89792554",
+      "sourceId": "S073",
+      "sourceUrl": "https://raw.githubusercontent.com/wquguru/shisei/v0.4.1/images/line/w900/sexy_S073_front.webp",
+      "sourceSha256": "b5ad897925543952b02b71d582293e912793e59e31e7120098f65744587ca080",
+      "sourceView": "front",
+      "title": "单腿高举前屈",
+      "group": "伸展与平衡",
+      "image": "./media/originals/open-static-b5ad89792554.webp"
+    },
+    {
+      "id": "open-static-7bd00c338fa5",
+      "sourceId": "S079",
+      "sourceUrl": "https://raw.githubusercontent.com/wquguru/shisei/v0.4.1/images/line/w900/sexy_S079_front.webp",
+      "sourceSha256": "7bd00c338fa51ac3ad41616cef0926e1af0872594d2fca5d62996c5ccd8e6f9c",
+      "sourceView": "front",
+      "title": "单腿支撑后桥",
+      "group": "伸展与平衡",
+      "image": "./media/originals/open-static-7bd00c338fa5.webp"
+    },
+    {
+      "id": "open-static-0f28a6ae4d49",
+      "sourceId": "S080",
+      "sourceUrl": "https://raw.githubusercontent.com/wquguru/shisei/v0.4.1/images/line/w900/sexy_S080_front.webp",
+      "sourceSha256": "0f28a6ae4d495b4e5cdfc6cdaf62fcb89b76fd182ee99b9b0d255c0143ee854b",
+      "sourceView": "front",
+      "title": "屈膝坐姿双手后撑",
+      "group": "俯撑与支撑",
+      "image": "./media/originals/open-static-0f28a6ae4d49.webp"
+    }
+  ]
+}

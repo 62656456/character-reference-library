@@ -13,7 +13,21 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  sync-images:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          sparse-checkout: .github
+      - name: Verify and publish image packages
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 .github/scripts/sync_assets.py
   build:
+    needs: sync-images
     runs-on: ubuntu-latest
     steps:
       - name: Read private website source
@@ -31,14 +45,30 @@ jobs:
             media/decorations
             vendor
             assets
+            releases
+      - name: Apply verified source overlay
+        run: |
+          python3 - <<'PY'
+          import hashlib,json,zipfile
+          from pathlib import Path
+          root=Path('website').resolve()
+          manifest=json.loads((root/'releases/overlay-manifest.json').read_text())
+          archive=root/manifest['file']
+          if hashlib.sha256(archive.read_bytes()).hexdigest()!=manifest['sha256']:raise RuntimeError('Source overlay checksum mismatch')
+          with zipfile.ZipFile(archive) as package:
+              for entry in package.infolist():
+                  target=(root/entry.filename).resolve()
+                  if not target.is_relative_to(root):raise RuntimeError('Unsafe source path')
+              package.extractall(root)
+          PY
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '22'
+          node-version: '24'
       - name: Configure Pages
         uses: actions/configure-pages@v5
       - name: Build public website
-        run: node website/scripts/build-pages.mjs --published-originals "$GITHUB_WORKSPACE/website/data/published-originals.json" --out "$RUNNER_TEMP/character-reference-pages"
+        run: node website/scripts/build-pages.mjs --include-prepared --published-originals "$GITHUB_WORKSPACE/website/data/published-originals.json" --out "$RUNNER_TEMP/character-reference-pages"
       - name: Upload website
         uses: actions/upload-pages-artifact@v4
         with:

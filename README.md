@@ -3,7 +3,7 @@
 
 一个持续更新的中文角色视觉参考与创作网站。为角色设计、绘画练习、影视美术和 AI 创作整理人物、发型、衣装、妆容与动作参考；先看图、挑细节，再把喜欢的元素组合成自己的角色。
 
-**[进入网站 ↗](https://62656456.github.io/character-reference-library/)** · [探索图库](https://62656456.github.io/character-reference-library/#view=gallery) · [角色工作台](https://62656456.github.io/character-reference-library/#view=composer) · [在线上传](https://character-reference-community-62656456.eager-rain-5354.chatgpt.site/?tab=upload) · [支持与交流](https://62656456.github.io/character-reference-library/#view=support)
+**[进入网站 ↗](https://62656456.github.io/character-reference-library/)** · [探索图库](https://62656456.github.io/character-reference-library/#view=gallery) · [角色工作台](https://62656456.github.io/character-reference-library/#view=composer) · [支持与交流](https://62656456.github.io/character-reference-library/#view=support)
 
 <table>
   <tr>
@@ -16,18 +16,15 @@
 
 ## 当前公开内容
 
-**3363 个参考条目，3844 张实际原图，11 个一级分类。** 多视角动作按“1 组动作”计为一个条目；预览副本和页面装饰不重复计数。
+**4,009 个参考条目，4,490 张实际原图，6 个创作大类。** 多视角动作按一组计为一个条目，预览副本与页面装饰不重复计数。
 
-其中，开放动作线稿为 **147 组、628 个实际视角**：71 组单人线稿、66 组半身线稿、10 组双人线稿。每组只显示实际提供的正面、斜侧、侧面、俯视或仰视，不假设每组都有五个视角。卡片和详情可以切换视角，下载对应当前选择的原图。
+| 人物与表情 | 服装 | 动作 | 妆容 | 发型 | 配饰 |
+| --- | --- | --- | --- | --- | --- |
+| 1465 | 890 | 166 | 400 | 808 | 280 |
 
-本轮已同步当前入库的全部 3363 个条目。后续素材仍在继续制作，网站不定期更新，以页面实际展示为准。
+动作保留原有 147 组、628 个实际视角，另直接接入 19 张 Shisei CC0 静态原图，共 166 条动作参考。没有把静态参考改造成动画。来源与许可见[静态参考来源](media/static-poses/SOURCES.json)。
 
-| 人物与表现 | 发型与妆造 | 衣装与细节 |
-| --- | --- | --- |
-| 人像脸型 | 现代发型 | 服装设计 |
-| 动作与体态 | 古风发髻 | 配饰设计 |
-| 表情与神态（含微动作） | 妆容设计 | 首饰设计 |
-| 气质造型 | 肤色参考 | |
+衣装按版型、款型与使用场景查找；人物、发型、配饰等采用各自适用的筛选。网站持续更新，实际内容以页面为准。
 
 ## 查找、收藏与比较
 
@@ -61,13 +58,9 @@
 
 收集来源为 [MeiGen 热门图片提示词](https://github.com/jau123/nanobanana-trending-prompts)与 [Awesome GPT Image 中文提示词](https://github.com/cccyyywqq/awesome-gpt-image-prompts-zh)；原帖作者、源库说明及许可入口保留在每篇详情中。
 
-## 在线上传与运营
+## 独立登录接入
 
-[在线社区](https://character-reference-community-62656456.eager-rain-5354.chatgpt.site)提供多图上传、逐项填写资料、失败项重试和个人投稿管理。上传时保留标题、分类、标签、实际提示词、创作者署名、来源与使用条件；普通投稿经审核后公开。
-
-账户使用 **ChatGPT 平台统一认证**。可在平台登录页选择其提供的 Google、Apple 或邮箱方式；本站不另建一套独立的第三方账户系统。
-
-站主可在[运营后台](https://character-reference-community-62656456.eager-rain-5354.chatgpt.site/?tab=admin)审核投稿、编辑素材资料、发布或下架素材、批量操作、导入与导出元数据，并查看使用统计与操作日志。管理功能有权限控制，普通账号只管理自己的投稿。
+网站已准备独立的 Google、Apple 和邮箱登录界面与接入配置，真实登录服务尚未开通。浏览已有参考无需登录；页面不以登录平台域名作为本站入口。生成新图使用访问者自行配置的 API 与额度。
 
 ## Agent 调用技能
 
