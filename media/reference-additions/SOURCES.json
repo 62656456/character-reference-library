@@ -141,6 +141,84 @@
       "descriptionOfChanges": "本站原创 · 架空造型",
       "license": "按本站自有素材使用约定署名。",
       "licenseUrl": null
+    },
+    {
+      "id": "atlas-261111b-costume-dapper",
+      "title": "深棕连帽皮衣 · 赭纹拼带套装",
+      "image": "media/originals/atlas-261111b-costume-dapper.webp",
+      "gallery": "https://62656456.github.io/character-reference-library/#view=gallery&collection=latest-wardrobe&preview=atlas-261111b-costume-dapper",
+      "credit": "Dapper Dan 设计，Rakim 穿着；Smithsonian National Museum of African American History and Culture，Rakim 捐赠，馆号 2016.10.2.2。",
+      "sources": [
+        "https://nmaahc.si.edu/object/nmaahc_2016.10.2.2",
+        "https://collections.si.edu/search/record/ark:/65665/fd50d0c11e21b574f9083aebc3eb32ca3cc"
+      ],
+      "descriptionOfChanges": "馆藏服装照片参考 · AI 造型转制",
+      "license": "馆藏原照片为 CC0 1.0，允许改绘、展示与再分发。",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "id": "atlas-261111b-costume-cheetah",
+      "title": "灰绿细豹纹单排扣夹克",
+      "image": "media/originals/atlas-261111b-costume-cheetah.webp",
+      "gallery": "https://62656456.github.io/character-reference-library/#view=gallery&collection=latest-wardrobe&preview=atlas-261111b-costume-cheetah",
+      "credit": "Willi Smith 为 WilliWear 设计；Smithsonian National Museum of African American History and Culture，Lois K. Alexander-Lane 创办的 Black Fashion Museum 捐赠，馆号 2007.3.153。",
+      "sources": [
+        "https://avpreservation.si.edu/object/nmaahc_2007.3.153"
+      ],
+      "descriptionOfChanges": "馆藏服装照片参考 · AI 造型转制",
+      "license": "馆藏原照片为 CC0 1.0，允许改绘、展示与再分发。",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "id": "atlas-261111b-costume-taffeta",
+      "title": "豆沙粉塔夫绸抹胸晚礼服",
+      "image": "media/originals/atlas-261111b-costume-taffeta.webp",
+      "gallery": "https://62656456.github.io/character-reference-library/#view=gallery&collection=latest-wardrobe&preview=atlas-261111b-costume-taffeta",
+      "credit": "Best & Co. 制作，Ann Lamb Davis 旧藏；Smithsonian National Museum of African American History and Culture，Lois K. Alexander-Lane 创办的 Black Fashion Museum 捐赠，馆号 2007.3.949。",
+      "sources": [
+        "https://nmaahc.si.edu/object/nmaahc_2007.3.949"
+      ],
+      "descriptionOfChanges": "馆藏服装照片参考 · AI 造型转制",
+      "license": "馆藏原照片为 CC0 1.0，允许改绘、展示与再分发。",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "id": "atlas-261111b-costume-antiques",
+      "title": "清代百古纹女便袍 · 配色演绎",
+      "image": "media/originals/atlas-261111b-costume-antiques.webp",
+      "gallery": "https://62656456.github.io/character-reference-library/#view=gallery&collection=latest-wardrobe&preview=atlas-261111b-costume-antiques",
+      "credit": "作者未载；The Metropolitan Museum of Art，Mrs. William A. Weaver 纪念其丈夫捐赠，馆号 1974.277。",
+      "sources": [
+        "https://www.metmuseum.org/art/collection/search/63681",
+        "https://www.metmuseum.org/hubs/open-access"
+      ],
+      "descriptionOfChanges": "历史实物参考 · AI 色彩与搭配演绎",
+      "license": "馆藏原照片为 CC0 1.0，允许改绘、展示与再分发。",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "id": "atlas-261111b-costume-fantasy",
+      "title": "盐灯戏班 · 金线折扇戏服",
+      "image": "media/originals/atlas-261111b-costume-fantasy.webp",
+      "gallery": "https://62656456.github.io/character-reference-library/#view=gallery&collection=latest-wardrobe&preview=atlas-261111b-costume-fantasy",
+      "credit": "角色创作库 @62656456",
+      "sources": [],
+      "descriptionOfChanges": "本站原创 · 架空戏服",
+      "license": "按本站自有素材使用约定署名。",
+      "licenseUrl": null
+    },
+    {
+      "id": "atlas-261111b-accessory-clutch",
+      "title": "银色织金蛇链晚宴手包",
+      "image": "media/originals/atlas-261111b-accessory-clutch.webp",
+      "gallery": "https://62656456.github.io/character-reference-library/#view=gallery&collection=latest-wardrobe&preview=atlas-261111b-accessory-clutch",
+      "credit": "作者未载；Smithsonian National Museum of African American History and Culture，Lois K. Alexander-Lane 创办的 Black Fashion Museum 捐赠，馆号 2007.3.675。",
+      "sources": [
+        "https://collections.si.edu/search/record/ark:/65665/fd5a032cb6dcead48f4a564d1f2f169b900"
+      ],
+      "descriptionOfChanges": "馆藏配饰照片参考 · AI 造型转制",
+      "license": "馆藏原照片为 CC0 1.0，允许改绘、展示与再分发。",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
     }
   ]
 }

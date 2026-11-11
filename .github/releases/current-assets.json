@@ -1,112 +1,72 @@
 {
-  "tag": "atlas-20261111-reference-additions",
+  "tag": "atlas-20261111-wardrobe",
   "packages": [
     {
-      "file": "images-001.zip",
-      "sha256": "ba56827dc83452af196dbf06a1ea50fb3d4906b8e3623c613a3db4f6b153c578",
-      "size": 8107816,
-      "entries": 20
+      "file": "wardrobe-images.zip",
+      "sha256": "12391e3f80d740a4a318cb7a9937c446461e6cc148ece0a0ec2065259d336dc6",
+      "size": 8609180,
+      "entries": 12
     }
   ],
   "files": [
     {
-      "path": "media/originals/atlas-261111-accessory-handbag.webp",
-      "sha": "1761e1d1ff86999ed46d050eafdb90a331e2f62c",
+      "path": "media/originals/atlas-261111b-accessory-clutch.webp",
+      "sha": "6e5e16dac063618264ad29bdd6bc7a9bfc955e1a",
       "beforeSha": null
     },
     {
-      "path": "media/originals/atlas-261111-costume-denim.webp",
-      "sha": "2ac0d0042936a167574305c4e2000e5100eeb83b",
+      "path": "media/originals/atlas-261111b-costume-antiques.webp",
+      "sha": "1d8997c82c719daa22d972466a5d097d0457f3a7",
       "beforeSha": null
     },
     {
-      "path": "media/originals/atlas-261111-costume-fantasy-surveyor.webp",
-      "sha": "2991af6a4346756436b85e645b4ef3cf96c1cf7f",
+      "path": "media/originals/atlas-261111b-costume-cheetah.webp",
+      "sha": "d097416e88c328ecfc9ab7d96d0221db7aca24b1",
       "beforeSha": null
     },
     {
-      "path": "media/originals/atlas-261111-costume-racer.webp",
-      "sha": "14438d725a286667e44af675c4458a7b317bc178",
+      "path": "media/originals/atlas-261111b-costume-dapper.webp",
+      "sha": "73d147331103f64aec7d5f3c3ee1bcd07d9d6644",
       "beforeSha": null
     },
     {
-      "path": "media/originals/atlas-261111-expression-soft-smile.webp",
-      "sha": "1619e60ddc866bf2c30297a34798f54de179fe21",
+      "path": "media/originals/atlas-261111b-costume-fantasy.webp",
+      "sha": "dc7e9d6a8d4e976d7e320bad626c08e7b19655ab",
       "beforeSha": null
     },
     {
-      "path": "media/originals/atlas-261111-motion-fan-duo.webp",
-      "sha": "8ddc497460e80c14476989c92103cdca56bc7e17",
+      "path": "media/originals/atlas-261111b-costume-taffeta.webp",
+      "sha": "83c80f4a4fef7fb834d464c15b62a5181cc42828",
       "beforeSha": null
     },
     {
-      "path": "media/originals/atlas-261111-motion-hero-step.webp",
-      "sha": "e8f1c8573781729be416be909f271f09f6b7deea",
+      "path": "media/previews/atlas-261111b-accessory-clutch.webp",
+      "sha": "8578e4bd46a6a9c2c5719a1b05494623a8a18d58",
       "beforeSha": null
     },
     {
-      "path": "media/originals/atlas-261111-motion-scarf-duo.webp",
-      "sha": "b56831a28c248ea1917b5fb14f334bc509a97b76",
+      "path": "media/previews/atlas-261111b-costume-antiques.webp",
+      "sha": "6bf5ae03a10402f63931cd58c67f9c42a2beb090",
       "beforeSha": null
     },
     {
-      "path": "media/originals/atlas-261111-motion-taiji-levels.webp",
-      "sha": "b6b9d7614a1a156364345edcf487ed0c54f3e2cc",
+      "path": "media/previews/atlas-261111b-costume-cheetah.webp",
+      "sha": "98eee727e743e4c9615d687627cdbf0144191ca2",
       "beforeSha": null
     },
     {
-      "path": "media/originals/atlas-261111-motion-wushu-balance.webp",
-      "sha": "78b505986305f4265b1b65bb61b3366019c92ccd",
+      "path": "media/previews/atlas-261111b-costume-dapper.webp",
+      "sha": "5c455f9e4cb357f143912b8ebcdcb6e0d8b0e7a2",
       "beforeSha": null
     },
     {
-      "path": "media/previews/atlas-261111-accessory-handbag.webp",
-      "sha": "1e7bd54b14fea75c5df6cfbf5ebde5109be45e17",
+      "path": "media/previews/atlas-261111b-costume-fantasy.webp",
+      "sha": "9fed5d9db3859ac0536088c4dd478e2113ddea0b",
       "beforeSha": null
     },
     {
-      "path": "media/previews/atlas-261111-costume-denim.webp",
-      "sha": "fa249596d669ea9e810cc191a6787ff3518c0762",
-      "beforeSha": null
-    },
-    {
-      "path": "media/previews/atlas-261111-costume-fantasy-surveyor.webp",
-      "sha": "3a84b29b4e104cd00e735b30846c0952ff2e55cb",
-      "beforeSha": null
-    },
-    {
-      "path": "media/previews/atlas-261111-costume-racer.webp",
-      "sha": "d8a357da07cc85c1f88fb0857fe98c015b2f9236",
-      "beforeSha": null
-    },
-    {
-      "path": "media/previews/atlas-261111-expression-soft-smile.webp",
-      "sha": "d908070ab7f937f6f65c556cbbb86711f50e4090",
-      "beforeSha": null
-    },
-    {
-      "path": "media/previews/atlas-261111-motion-fan-duo.webp",
-      "sha": "142958e97a129eb74f1a80c351a8ef7f5365dbce",
-      "beforeSha": null
-    },
-    {
-      "path": "media/previews/atlas-261111-motion-hero-step.webp",
-      "sha": "700de2d0f473aa967a6a0c5e952b7ea17713ca28",
-      "beforeSha": null
-    },
-    {
-      "path": "media/previews/atlas-261111-motion-scarf-duo.webp",
-      "sha": "8b088c33df78abd514c4f9299b2a3e9ab9ec1304",
-      "beforeSha": null
-    },
-    {
-      "path": "media/previews/atlas-261111-motion-taiji-levels.webp",
-      "sha": "ec22817d9fefdceb412709a139f368243bea7bf5",
-      "beforeSha": null
-    },
-    {
-      "path": "media/previews/atlas-261111-motion-wushu-balance.webp",
-      "sha": "4351f61f818dbcc36ca53b3c362bf0bc73cdded8",
+      "path": "media/previews/atlas-261111b-costume-taffeta.webp",
+      "sha": "ba3d13fc8733b160a3764c97652b27ee08729014",
       "beforeSha": null
     }
   ]
