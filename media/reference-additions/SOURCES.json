@@ -1,0 +1,146 @@
+{
+  "items": [
+    {
+      "id": "atlas-261111-motion-wushu-balance",
+      "title": "提膝展臂 · 单脚定格",
+      "image": "media/originals/atlas-261111-motion-wushu-balance.webp",
+      "gallery": "https://62656456.github.io/character-reference-library/#view=gallery&preview=atlas-261111-motion-wushu-balance",
+      "credit": "Matthew Choi · Beijing Wushu Team – 2012 Tour",
+      "sources": [
+        "https://commons.wikimedia.org/wiki/File:Beijing_Wushu_Team_-_2012_Tour.ogv"
+      ],
+      "sourceTimestamp": "00:39.87",
+      "descriptionOfChanges": "基于原画面的白底全身线稿改绘",
+      "license": "原参考与本站改绘：CC BY 3.0。注明作者、原作品、许可与改绘。",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+    },
+    {
+      "id": "atlas-261111-motion-taiji-levels",
+      "title": "斜向屈膝 · 前后手错高",
+      "image": "media/originals/atlas-261111-motion-taiji-levels.webp",
+      "gallery": "https://62656456.github.io/character-reference-library/#view=gallery&preview=atlas-261111-motion-taiji-levels",
+      "credit": "Melissa Sanders · Tai Chi Demo at Culture Fest",
+      "sources": [
+        "https://commons.wikimedia.org/wiki/File:Tai_Chi_Demo_at_Culture_Fest.jpg",
+        "https://www.flickr.com/photos/53935376@N00/3960444116"
+      ],
+      "sourceTimestamp": null,
+      "descriptionOfChanges": "基于原画面的白底全身线稿改绘",
+      "license": "原参考与本站改绘：CC BY 2.0。注明作者、原作品、许可与改绘。",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/"
+    },
+    {
+      "id": "atlas-261111-motion-fan-duo",
+      "title": "双人持扇 · 斜线错位",
+      "image": "media/originals/atlas-261111-motion-fan-duo.webp",
+      "gallery": "https://62656456.github.io/character-reference-library/#view=gallery&preview=atlas-261111-motion-fan-duo",
+      "credit": "Windmemories · 2024-11-03 Shaolin Martial Art Performance 01",
+      "sources": [
+        "https://commons.wikimedia.org/wiki/File:20241103_Shaolin_Martial_Art_Performance_01.jpg"
+      ],
+      "sourceTimestamp": null,
+      "descriptionOfChanges": "基于原画面的白底全身线稿改绘",
+      "license": "原参考与本站改绘：CC BY-SA 4.0。注明作者、原作品、许可与改绘。",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "atlas-261111-motion-scarf-duo",
+      "title": "双人持巾 · 侧身与展臂",
+      "image": "media/originals/atlas-261111-motion-scarf-duo.webp",
+      "gallery": "https://62656456.github.io/character-reference-library/#view=gallery&preview=atlas-261111-motion-scarf-duo",
+      "credit": "Albinfo · Logu i Bjeshkëve 2017 – dancers on stage",
+      "sources": [
+        "https://commons.wikimedia.org/wiki/File:Logu_i_Bjeshk%C3%ABve_2017_%E2%80%93_dancers_on_stage.jpg"
+      ],
+      "sourceTimestamp": null,
+      "descriptionOfChanges": "基于原画面的白底全身线稿改绘",
+      "license": "原参考与本站改绘：CC BY-SA 4.0。注明作者、原作品、许可与改绘。",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "atlas-261111-motion-hero-step",
+      "title": "低头护腹 · 单脚离地",
+      "image": "media/originals/atlas-261111-motion-hero-step.webp",
+      "gallery": "https://62656456.github.io/character-reference-library/#view=gallery&preview=atlas-261111-motion-hero-step",
+      "credit": "《HERO》 · 导演 Daniel Martinez Lara · Blender Foundation",
+      "sources": [
+        "https://studio.blender.org/projects/hero/",
+        "https://www.youtube.com/watch?v=pKmSdY56VtY&t=113s",
+        "https://commons.wikimedia.org/wiki/File:HERO_-_Blender_Open_Movie-full_movie.webm"
+      ],
+      "sourceTimestamp": "01:53.000",
+      "descriptionOfChanges": "基于原画面的白底全身线稿改绘",
+      "license": "原参考与本站改绘：CC BY 4.0。注明作者、原作品、许可与改绘。",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "id": "atlas-261111-expression-soft-smile",
+      "title": "轻抿到浅笑 · 嘴角微扬",
+      "image": "media/originals/atlas-261111-expression-soft-smile.webp",
+      "gallery": "https://62656456.github.io/character-reference-library/#view=gallery&preview=atlas-261111-expression-soft-smile",
+      "credit": "角色创作库 · 自有静帧 micro-04",
+      "sources": [
+        "https://62656456.github.io/character-reference-library/#view=gallery&preview=micro-04"
+      ],
+      "sourceTimestamp": null,
+      "descriptionOfChanges": "基于自有母版制作的表情动画",
+      "license": "按本站自有素材使用约定署名。",
+      "licenseUrl": null
+    },
+    {
+      "id": "atlas-261111-costume-racer",
+      "title": "红黑赛车条纹机车皮夹克",
+      "image": "media/originals/atlas-261111-costume-racer.webp",
+      "gallery": "https://62656456.github.io/character-reference-library/#view=gallery&preview=atlas-261111-costume-racer",
+      "credit": "M. Julian 设计，Kurtis Blow 穿着；Smithsonian National Museum of African American History and Culture，Kurtis Walker（Kurtis Blow）捐赠，馆号 2015.185。",
+      "sources": [
+        "https://collections.si.edu/search/record/ark:/65665/fd5dd4ccc7cc7ad48ad9a69f360e166d040"
+      ],
+      "sourceTimestamp": null,
+      "descriptionOfChanges": "馆藏服装照片参考 · AI 造型转制",
+      "license": "来源实物照片为 CC0 1.0，允许复制、改绘与分发。",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "id": "atlas-261111-costume-denim",
+      "title": "短袖开襟牛仔夹克与 A 字裙",
+      "image": "media/originals/atlas-261111-costume-denim.webp",
+      "gallery": "https://62656456.github.io/character-reference-library/#view=gallery&preview=atlas-261111-costume-denim",
+      "credit": "Arthur McGee 设计；Smithsonian National Museum of African American History and Culture，Lois K. Alexander-Lane 创办的 Black Fashion Museum 捐赠，馆号 2007.3.56。",
+      "sources": [
+        "https://nmaahc.si.edu/object/nmaahc_2007.3.56",
+        "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2007_3_56_1_001"
+      ],
+      "sourceTimestamp": null,
+      "descriptionOfChanges": "馆藏服装照片参考 · AI 造型转制",
+      "license": "来源实物照片为 CC0 1.0，允许复制、改绘与分发。",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "id": "atlas-261111-accessory-handbag",
+      "title": "黑色仿皮金扣手提包",
+      "image": "media/originals/atlas-261111-accessory-handbag.webp",
+      "gallery": "https://62656456.github.io/character-reference-library/#view=gallery&preview=atlas-261111-accessory-handbag",
+      "credit": "Michels–Drew 制作；Smithsonian National Museum of African American History and Culture，Lois K. Alexander-Lane 创办的 Black Fashion Museum 捐赠，馆号 2007.3.968ab。",
+      "sources": [
+        "https://collections.si.edu/search/record/ark:/65665/fd5e66534ecede842999babf56cc3533ab1"
+      ],
+      "sourceTimestamp": null,
+      "descriptionOfChanges": "馆藏配饰照片参考 · AI 造型转制",
+      "license": "来源实物照片为 CC0 1.0，允许复制、改绘与分发。",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "id": "atlas-261111-costume-fantasy-surveyor",
+      "title": "山城测绘员 · 交领斜襟常服",
+      "image": "media/originals/atlas-261111-costume-fantasy-surveyor.webp",
+      "gallery": "https://62656456.github.io/character-reference-library/#view=gallery&preview=atlas-261111-costume-fantasy-surveyor",
+      "credit": "角色创作库 @62656456",
+      "sources": [],
+      "sourceTimestamp": null,
+      "descriptionOfChanges": "本站原创 · 架空造型",
+      "license": "按本站自有素材使用约定署名。",
+      "licenseUrl": null
+    }
+  ]
+}
