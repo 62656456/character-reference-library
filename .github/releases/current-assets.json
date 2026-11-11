@@ -1,72 +1,52 @@
 {
-  "tag": "atlas-20261111-wardrobe",
+  "tag": "atlas-20261111-fixed-frames",
   "packages": [
     {
-      "file": "wardrobe-images.zip",
-      "sha256": "12391e3f80d740a4a318cb7a9937c446461e6cc148ece0a0ec2065259d336dc6",
-      "size": 8609180,
-      "entries": 12
+      "file": "fixed-frame-images.zip",
+      "sha256": "987535a3fcc2d806824d0c1ee7d7c7471cac1c997962c415bdc85e1e49ea640d",
+      "size": 1550108,
+      "entries": 8
     }
   ],
   "files": [
     {
-      "path": "media/originals/atlas-261111b-accessory-clutch.webp",
-      "sha": "6e5e16dac063618264ad29bdd6bc7a9bfc955e1a",
+      "path": "media/originals/atlas-261111c-motion-champion-bell.webp",
+      "sha": "6fb2a7366ea76b6e6db3db53a30e9ab9f80eae42",
       "beforeSha": null
     },
     {
-      "path": "media/originals/atlas-261111b-costume-antiques.webp",
-      "sha": "1d8997c82c719daa22d972466a5d097d0457f3a7",
+      "path": "media/originals/atlas-261111c-motion-charge-listen.webp",
+      "sha": "806af1d429cc3318beb5ee823cba1bc47efd4271",
       "beforeSha": null
     },
     {
-      "path": "media/originals/atlas-261111b-costume-cheetah.webp",
-      "sha": "d097416e88c328ecfc9ab7d96d0221db7aca24b1",
+      "path": "media/originals/atlas-261111c-motion-hero-rooftop.webp",
+      "sha": "07ecd76ae6389ba251bbc2cc47b35a8401028f79",
       "beforeSha": null
     },
     {
-      "path": "media/originals/atlas-261111b-costume-dapper.webp",
-      "sha": "73d147331103f64aec7d5f3c3ee1bcd07d9d6644",
+      "path": "media/originals/atlas-261111c-motion-sintel-turn.webp",
+      "sha": "c36b197bc316b0d8331ba4a8f8ad79e221041594",
       "beforeSha": null
     },
     {
-      "path": "media/originals/atlas-261111b-costume-fantasy.webp",
-      "sha": "dc7e9d6a8d4e976d7e320bad626c08e7b19655ab",
+      "path": "media/previews/atlas-261111c-motion-champion-bell.webp",
+      "sha": "88b0889f7e7ef25cca2193962651044de9a644af",
       "beforeSha": null
     },
     {
-      "path": "media/originals/atlas-261111b-costume-taffeta.webp",
-      "sha": "83c80f4a4fef7fb834d464c15b62a5181cc42828",
+      "path": "media/previews/atlas-261111c-motion-charge-listen.webp",
+      "sha": "cb1cca04b61148f8a18b397986aba30a2a909f40",
       "beforeSha": null
     },
     {
-      "path": "media/previews/atlas-261111b-accessory-clutch.webp",
-      "sha": "8578e4bd46a6a9c2c5719a1b05494623a8a18d58",
+      "path": "media/previews/atlas-261111c-motion-hero-rooftop.webp",
+      "sha": "8c889ce3060d448f3cfe899dde2f0a472a6d4560",
       "beforeSha": null
     },
     {
-      "path": "media/previews/atlas-261111b-costume-antiques.webp",
-      "sha": "6bf5ae03a10402f63931cd58c67f9c42a2beb090",
-      "beforeSha": null
-    },
-    {
-      "path": "media/previews/atlas-261111b-costume-cheetah.webp",
-      "sha": "98eee727e743e4c9615d687627cdbf0144191ca2",
-      "beforeSha": null
-    },
-    {
-      "path": "media/previews/atlas-261111b-costume-dapper.webp",
-      "sha": "5c455f9e4cb357f143912b8ebcdcb6e0d8b0e7a2",
-      "beforeSha": null
-    },
-    {
-      "path": "media/previews/atlas-261111b-costume-fantasy.webp",
-      "sha": "9fed5d9db3859ac0536088c4dd478e2113ddea0b",
-      "beforeSha": null
-    },
-    {
-      "path": "media/previews/atlas-261111b-costume-taffeta.webp",
-      "sha": "ba3d13fc8733b160a3764c97652b27ee08729014",
+      "path": "media/previews/atlas-261111c-motion-sintel-turn.webp",
+      "sha": "f30bbe2dbdb8cedd1a04cd9875b5de4391698356",
       "beforeSha": null
     }
   ]

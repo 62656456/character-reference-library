@@ -219,6 +219,66 @@
       "descriptionOfChanges": "馆藏配饰照片参考 · AI 造型转制",
       "license": "馆藏原照片为 CC0 1.0，允许改绘、展示与再分发。",
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "id": "atlas-261111c-motion-sintel-turn",
+      "title": "雪脊回头 · 肩背斜切",
+      "image": "media/originals/atlas-261111c-motion-sintel-turn.webp",
+      "gallery": "https://62656456.github.io/character-reference-library/#view=gallery&family=motion&q=%E4%BA%A4%E9%94%8B%E5%89%8D%E4%B8%80%E6%8B%8D&preview=atlas-261111c-motion-sintel-turn",
+      "credit": "Colin Levy 导演 · 《Sintel》 · © Blender Foundation | www.sintel.org",
+      "sources": [
+        "https://commons.wikimedia.org/wiki/File:Sintel_movie_-_Blender_Fondation.ogv#t=41.3",
+        "https://durian.blender.org/sharing/"
+      ],
+      "sourceTimestamp": "00:41.300",
+      "descriptionOfChanges": "按影视原片单帧提炼的二维轮廓线稿",
+      "license": "原片与本站线稿改绘按 CC BY 3.0 标注，复用请注明原作、作者、许可与改动。",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+    },
+    {
+      "id": "atlas-261111c-motion-hero-rooftop",
+      "title": "肩前压近 · 隔高台对望",
+      "image": "media/originals/atlas-261111c-motion-hero-rooftop.webp",
+      "gallery": "https://62656456.github.io/character-reference-library/#view=gallery&family=motion&q=%E4%BA%A4%E9%94%8B%E5%89%8D%E4%B8%80%E6%8B%8D&preview=atlas-261111c-motion-hero-rooftop",
+      "credit": "Daniel Martinez Lara 导演 · 《HERO》 · Blender Foundation",
+      "sources": [
+        "https://www.youtube.com/watch?v=pKmSdY56VtY&t=46s",
+        "https://commons.wikimedia.org/wiki/File:HERO_-_Blender_Open_Movie-full_movie.webm#t=46.5"
+      ],
+      "sourceTimestamp": "00:46.500",
+      "descriptionOfChanges": "按影视原片单帧提炼的二维轮廓线稿",
+      "license": "原片与本站线稿改绘按 CC BY 4.0 标注，复用请注明原作、作者、许可与改动。",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "id": "atlas-261111c-motion-charge-listen",
+      "title": "抬眼停住 · 威胁留在画外",
+      "image": "media/originals/atlas-261111c-motion-charge-listen.webp",
+      "gallery": "https://62656456.github.io/character-reference-library/#view=gallery&family=motion&q=%E4%BA%A4%E9%94%8B%E5%89%8D%E4%B8%80%E6%8B%8D&preview=atlas-261111c-motion-charge-listen",
+      "credit": "Hjalti Hjálmarsson 导演 · 《CHARGE》 · Blender Studio · © Blender Foundation",
+      "sources": [
+        "https://www.youtube.com/watch?v=UXqq0ZvbOnk&t=59s",
+        "https://commons.wikimedia.org/wiki/File:Charge_-_Blender_Open_Movie-full_movie.webm"
+      ],
+      "sourceTimestamp": "00:59.882",
+      "descriptionOfChanges": "按影视原片单帧提炼的二维轮廓线稿",
+      "license": "原片与本站线稿改绘按 CC BY 4.0 标注，复用请注明原作、作者、许可与改动。",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "id": "atlas-261111c-motion-champion-bell",
+      "title": "擂台两端 · 开场前的停顿",
+      "image": "media/originals/atlas-261111c-motion-champion-bell.webp",
+      "gallery": "https://62656456.github.io/character-reference-library/#view=gallery&family=motion&q=%E4%BA%A4%E9%94%8B%E5%89%8D%E4%B8%80%E6%8B%8D&preview=atlas-261111c-motion-champion-bell",
+      "credit": "Charles Chaplin / Essanay Film Manufacturing Company · 《The Champion》(1915)",
+      "sources": [
+        "https://commons.wikimedia.org/wiki/File:The_Champion_1915_CHARLIE_CHAPLIN_EDNA_PURVIANCE.webm#t=1418",
+        "https://www.charliechaplin.com/en/films/34-The-Champion"
+      ],
+      "sourceTimestamp": "23:38.000（所链接的30分08秒版本）",
+      "descriptionOfChanges": "按影视原片单帧提炼的二维轮廓线稿",
+      "license": "所用1915年美国默片画面为美国公有领域，线稿保留原作与版本署名。",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
     }
   ]
 }
