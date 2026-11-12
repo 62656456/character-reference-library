@@ -146,6 +146,251 @@
       "descriptionOfChanges": "馆藏配饰照片参考 · AI 造型转制",
       "license": "馆藏原照片为 CC0 1.0，允许改绘、展示与再分发。",
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "id": "atlas-261112-weapon-coral-retro",
+      "title": "珊瑚橙 · 复古射线玩具",
+      "image": "media/originals/atlas-261112-weapon-coral-retro.webp",
+      "gallery": "https://62656456.github.io/character-reference-library/#view=gallery&collection=weapon-appearance&preview=atlas-261112-weapon-coral-retro",
+      "credit": "Kenney · Blaster Kit，CC0，取游戏道具的简明体块做新外观。",
+      "sources": [
+        "https://kenney-assets.itch.io/blaster-kit"
+      ],
+      "descriptionOfChanges": "依据公开出处的外观记录 · 纯文字生成",
+      "license": "原始外观参考 CC0 1.0。",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "id": "atlas-261112-weapon-amber-maul",
+      "title": "琥珀晶环 · 双端幻术锤模型",
+      "image": "media/originals/atlas-261112-weapon-amber-maul.webp",
+      "gallery": "https://62656456.github.io/character-reference-library/#view=gallery&collection=weapon-appearance&preview=atlas-261112-weapon-amber-maul",
+      "credit": "mehrasaur · 3D Hammer Pack（CC0）外观剪影灵感，琥珀环与表面色彩为本轮设计。",
+      "sources": [
+        "https://opengameart.org/content/3d-hammer-pack"
+      ],
+      "descriptionOfChanges": "依据公开出处的外观记录 · 纯文字生成",
+      "license": "外观灵感来源为 CC0 1.0。",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "id": "atlas-261112-weapon-lapis-sheath",
+      "title": "青金石嵌饰鞘 · 清宫外观参考",
+      "image": "media/originals/atlas-261112-weapon-lapis-sheath.webp",
+      "gallery": "https://62656456.github.io/character-reference-library/#view=gallery&collection=weapon-appearance&preview=atlas-261112-weapon-lapis-sheath",
+      "credit": "The Metropolitan Museum of Art · Imperial Knife with Sheath · 18th-century Chinese collection",
+      "sources": [
+        "https://www.metmuseum.org/art/collection/search/27397"
+      ],
+      "descriptionOfChanges": "依据公开出处的外观记录 · 纯文字生成",
+      "license": "馆藏开放图像为 Public Domain / CC0。",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "id": "atlas-261112-weapon-keris",
+      "title": "舟口木鞘 · 爪哇克力士陈列道具",
+      "image": "media/originals/atlas-261112-weapon-keris.webp",
+      "gallery": "https://62656456.github.io/character-reference-library/#view=gallery&collection=weapon-appearance&preview=atlas-261112-weapon-keris",
+      "credit": "The Metropolitan Museum of Art · Kris and Sheath, 16th century · 36.25.1270a, b · Javanese or Sumatran (Banten Sultanate)",
+      "sources": [
+        "https://www.metmuseum.org/art/collection/search/24313",
+        "https://www.metmuseum.org/hubs/open-access"
+      ],
+      "descriptionOfChanges": "依据公开出处的外观记录 · 纯文字生成",
+      "license": "馆藏外观来源公有领域，The Met Open Access CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "id": "atlas-261112-weapon-persian-shield",
+      "title": "墨钢金纹 · 波斯圆盾陈列道具",
+      "image": "media/originals/atlas-261112-weapon-persian-shield.webp",
+      "gallery": "https://62656456.github.io/character-reference-library/#view=gallery&collection=weapon-appearance&preview=atlas-261112-weapon-persian-shield",
+      "credit": "The Metropolitan Museum of Art · Shield, Persian, second half 19th century · 36.25.613",
+      "sources": [
+        "https://www.metmuseum.org/art/collection/search/31788",
+        "https://www.metmuseum.org/hubs/open-access"
+      ],
+      "descriptionOfChanges": "依据公开出处的外观记录 · 纯文字生成",
+      "license": "馆藏外观来源公有领域，The Met Open Access CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "id": "atlas-261112-weapon-jade-ge",
+      "title": "青玉弧翼 · 商代玉戈礼器外观",
+      "image": "media/originals/atlas-261112-weapon-jade-ge.webp",
+      "gallery": "https://62656456.github.io/character-reference-library/#view=gallery&collection=weapon-appearance&preview=atlas-261112-weapon-jade-ge",
+      "credit": "The Metropolitan Museum of Art · Ceremonial dagger-ax (Ge), China, Shang dynasty · 24.170.13 · jade (nephrite)",
+      "sources": [
+        "https://www.metmuseum.org/art/collection/search/44777",
+        "https://www.metmuseum.org/hubs/open-access"
+      ],
+      "descriptionOfChanges": "依据公开出处的外观记录 · 纯文字生成",
+      "license": "馆藏外观来源公有领域，The Met Open Access CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "id": "atlas-261112-weapon-violet-ring",
+      "title": "雾紫晶环 · 架空仪仗道具",
+      "image": "media/originals/atlas-261112-weapon-violet-ring.webp",
+      "gallery": "https://62656456.github.io/character-reference-library/#view=gallery&collection=weapon-appearance&preview=atlas-261112-weapon-violet-ring",
+      "credit": "本轮独立原创架空道具，未使用第三方 IP 或参考图",
+      "sources": [],
+      "descriptionOfChanges": "原创 · 纯文字生成",
+      "license": "本轮独立原创，无第三方来源许可依赖",
+      "licenseUrl": "https://62656456.github.io/character-reference-library/ASSET-LICENSE.md"
+    },
+    {
+      "id": "atlas-261112-weapon-wave-silver",
+      "title": "岩本宽斋式 · 波鱼银鞘陈列道具",
+      "image": "media/originals/atlas-261112-weapon-wave-silver.webp",
+      "gallery": "https://62656456.github.io/character-reference-library/#view=gallery&collection=weapon-appearance&preview=atlas-261112-weapon-wave-silver",
+      "credit": "The Metropolitan Museum of Art · Blade and Mounting for a Sword (Katana), 91.2.58；外观来源为岩本宽斋十九世纪银质刀装",
+      "sources": [
+        "https://www.metmuseum.org/art/collection/search/21891",
+        "https://www.metmuseum.org/hubs/open-access"
+      ],
+      "descriptionOfChanges": "依据公开出处的外观记录 · 纯文字生成",
+      "license": "馆藏开放图像为 Public Domain / CC0。",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "id": "atlas-261112-wardrobe-tweed-grid",
+      "title": "蓝格粗花呢开襟外套",
+      "image": "media/originals/atlas-261112-wardrobe-tweed-grid.webp",
+      "gallery": "https://62656456.github.io/character-reference-library/#view=gallery&collection=latest-wardrobe&preview=atlas-261112-wardrobe-tweed-grid",
+      "credit": "Arthur McGee 设计，Mary Klein 穿着；Smithsonian National Museum of African American History and Culture，Lois K. Alexander-Lane 创办的 Black Fashion Museum 捐赠，馆号 2007.3.53。",
+      "sources": [
+        "https://nmaahc.si.edu/object/nmaahc_2007.3.53"
+      ],
+      "descriptionOfChanges": "依据公开出处的外观记录 · 纯文字生成",
+      "license": "原馆藏媒体标为公共领域，可复制、改绘与再分发；成图依据馆方文字记录纯文字生成。",
+      "licenseUrl": "https://nmaahc.si.edu/object/nmaahc_2007.3.53"
+    },
+    {
+      "id": "atlas-261112-wardrobe-navy-warmup",
+      "title": "海军蓝红白罗纹复古运动套装",
+      "image": "media/originals/atlas-261112-wardrobe-navy-warmup.webp",
+      "gallery": "https://62656456.github.io/character-reference-library/#view=gallery&collection=latest-wardrobe&preview=atlas-261112-wardrobe-navy-warmup",
+      "credit": "Wilson Sporting Goods 制作，Tommie Smith 穿着；Smithsonian National Museum of African American History and Culture，馆号 2015.231.2.1。",
+      "sources": [
+        "https://nmaahc.si.edu/object/nmaahc_2015.231.2.1"
+      ],
+      "descriptionOfChanges": "依据公开出处的外观记录 · 纯文字生成",
+      "license": "原馆藏媒体标为公共领域，可复制、改绘与再分发；成图依据馆方文字记录纯文字生成。",
+      "licenseUrl": "https://nmaahc.si.edu/object/nmaahc_2015.231.2.1"
+    },
+    {
+      "id": "atlas-261112-wardrobe-blue-stage",
+      "title": "亮蓝短西装与低裆舞裤",
+      "image": "media/originals/atlas-261112-wardrobe-blue-stage.webp",
+      "gallery": "https://62656456.github.io/character-reference-library/#view=gallery&collection=latest-wardrobe&preview=atlas-261112-wardrobe-blue-stage",
+      "credit": "制作者未载，MC Hammer 穿着；Smithsonian National Museum of African American History and Culture，馆号 2011.153.7.1-.2。",
+      "sources": [
+        "https://nmaahc.si.edu/object/nmaahc_2011.153.7.1-.2"
+      ],
+      "descriptionOfChanges": "依据公开出处的外观记录 · 纯文字生成",
+      "license": "原馆藏媒体标为公共领域，可复制、改绘与再分发；成图依据馆方文字记录纯文字生成。",
+      "licenseUrl": "https://nmaahc.si.edu/object/nmaahc_2011.153.7.1-.2"
+    },
+    {
+      "id": "atlas-261112-wardrobe-oatmeal-skirt",
+      "title": "燕麦色双排扣丝斜纹裙套装",
+      "image": "media/originals/atlas-261112-wardrobe-oatmeal-skirt.webp",
+      "gallery": "https://62656456.github.io/character-reference-library/#view=gallery&collection=latest-wardrobe&preview=atlas-261112-wardrobe-oatmeal-skirt",
+      "credit": "Jean Louis 设计；Smithsonian National Museum of African American History and Culture，Lois K. Alexander-Lane 创办的 Black Fashion Museum 捐赠，馆号 2007.3.336.1-.2。",
+      "sources": [
+        "https://nmaahc.si.edu/object/nmaahc_2007.3.336.1-.2"
+      ],
+      "descriptionOfChanges": "依据公开出处的外观记录 · 纯文字生成",
+      "license": "原馆藏媒体标为公共领域，可复制、改绘与再分发；成图依据馆方文字记录纯文字生成。",
+      "licenseUrl": "https://nmaahc.si.edu/object/nmaahc_2007.3.336.1-.2"
+    },
+    {
+      "id": "atlas-261112-wardrobe-coral-dress",
+      "title": "珊瑚缎面灯笼袖低腰礼服",
+      "image": "media/originals/atlas-261112-wardrobe-coral-dress.webp",
+      "gallery": "https://62656456.github.io/character-reference-library/#view=gallery&collection=latest-wardrobe&preview=atlas-261112-wardrobe-coral-dress",
+      "credit": "制作者未载；Smithsonian National Museum of African American History and Culture，Lois K. Alexander-Lane 创办的 Black Fashion Museum 捐赠，馆号 2007.3.683。",
+      "sources": [
+        "https://nmaahc.si.edu/object/nmaahc_2007.3.683"
+      ],
+      "descriptionOfChanges": "依据公开出处的外观记录 · 纯文字生成",
+      "license": "原馆藏媒体标为公共领域，可复制、改绘与再分发；成图依据馆方文字记录纯文字生成。",
+      "licenseUrl": "https://nmaahc.si.edu/object/nmaahc_2007.3.683"
+    },
+    {
+      "id": "atlas-261112-wardrobe-phoenix-stage-robe",
+      "title": "绛红云肩 · 凤穿花宫衣演绎",
+      "image": "media/originals/atlas-261112-wardrobe-phoenix-stage-robe.webp",
+      "gallery": "https://62656456.github.io/character-reference-library/#view=gallery&collection=latest-wardrobe&preview=atlas-261112-wardrobe-phoenix-stage-robe",
+      "credit": "The Metropolitan Museum of Art · Theatrical robe with phoenix and floral patterns · 30.76.12a,b",
+      "sources": [
+        "https://www.metmuseum.org/art/collection/search/68994"
+      ],
+      "descriptionOfChanges": "依据公开出处的外观记录 · 纯文字生成",
+      "license": "馆藏开放图像为 Public Domain / CC0。",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "id": "atlas-261112-wardrobe-desert-archive",
+      "title": "盐原观测员 · 沙白连帽分片衣",
+      "image": "media/originals/atlas-261112-wardrobe-desert-archive.webp",
+      "gallery": "https://62656456.github.io/character-reference-library/#view=gallery&collection=latest-wardrobe&preview=atlas-261112-wardrobe-desert-archive",
+      "credit": "角色创作库 · 原创架空服装。",
+      "sources": [],
+      "descriptionOfChanges": "原创 · 纯文字生成",
+      "license": "本站原创服装设计，按站内素材约定使用。",
+      "licenseUrl": "https://62656456.github.io/character-reference-library/ASSET-LICENSE.md"
+    },
+    {
+      "id": "atlas-261112-wardrobe-velvet-drape",
+      "title": "黑丝绒斜珠纹不对称晚装",
+      "image": "media/originals/atlas-261112-wardrobe-velvet-drape.webp",
+      "gallery": "https://62656456.github.io/character-reference-library/#view=gallery&collection=latest-wardrobe&preview=atlas-261112-wardrobe-velvet-drape",
+      "credit": "作者未载，Ann Lamb Davis 旧藏。Smithsonian National Museum of African American History and Culture 馆藏，Black Fashion Museum 捐赠，馆号 2007.3.792。",
+      "sources": [
+        "https://nmaahc.si.edu/object/nmaahc_2007.3.792"
+      ],
+      "descriptionOfChanges": "依据公开出处的外观记录 · 纯文字生成",
+      "license": "原馆藏媒体为公有领域，纯文字设计演绎。",
+      "licenseUrl": "https://nmaahc.si.edu/object/nmaahc_2007.3.792"
+    },
+    {
+      "id": "atlas-261112-wardrobe-patch-denim",
+      "title": "麂皮方块拼接牛仔夹克与喇叭裤",
+      "image": "media/originals/atlas-261112-wardrobe-patch-denim.webp",
+      "gallery": "https://62656456.github.io/character-reference-library/#view=gallery&collection=latest-wardrobe&preview=atlas-261112-wardrobe-patch-denim",
+      "credit": "归于 Ortiz’s Art Clothing and Ace Tailors 制作，Charley Pride 穿着并捐赠。Smithsonian National Museum of African American History and Culture，馆号 2012.125.50ab。",
+      "sources": [
+        "https://nmaahc.si.edu/object/nmaahc_2012.125.50ab"
+      ],
+      "descriptionOfChanges": "依据公开出处的外观记录 · 纯文字生成",
+      "license": "原馆藏媒体为公有领域，纯文字设计演绎。",
+      "licenseUrl": "https://nmaahc.si.edu/object/nmaahc_2012.125.50ab"
+    },
+    {
+      "id": "atlas-261112-wardrobe-hood-denim",
+      "title": "奶油白连帽牛仔工装连体服",
+      "image": "media/originals/atlas-261112-wardrobe-hood-denim.webp",
+      "gallery": "https://62656456.github.io/character-reference-library/#view=gallery&collection=latest-wardrobe&preview=atlas-261112-wardrobe-hood-denim",
+      "credit": "Douglas Owens Gear 制作。Smithsonian National Museum of African American History and Culture 馆藏，Black Fashion Museum 捐赠，馆号 2007.3.663。",
+      "sources": [
+        "https://nmaahc.si.edu/object/nmaahc_2007.3.663"
+      ],
+      "descriptionOfChanges": "依据公开出处的外观记录 · 纯文字生成",
+      "license": "原馆藏媒体为公有领域，纯文字设计演绎。",
+      "licenseUrl": "https://nmaahc.si.edu/object/nmaahc_2007.3.663"
+    },
+    {
+      "id": "atlas-261112-wardrobe-stone-hall",
+      "title": "石城礼乐司 · 瓷青折肩礼服",
+      "image": "media/originals/atlas-261112-wardrobe-stone-hall.webp",
+      "gallery": "https://62656456.github.io/character-reference-library/#view=gallery&collection=latest-wardrobe&preview=atlas-261112-wardrobe-stone-hall",
+      "credit": "原创架空衣装。",
+      "sources": [],
+      "descriptionOfChanges": "原创 · 纯文字生成",
+      "license": "本站原创衣装，按素材使用说明使用。",
+      "licenseUrl": "https://62656456.github.io/character-reference-library/ASSET-LICENSE.md"
     }
   ]
 }

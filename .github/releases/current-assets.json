@@ -1,5 +1,203 @@
 {
-  "tag": "atlas-20261112-withdraw-action-references",
-  "packages": [],
-  "files": []
+  "tag": "atlas-20261112-wardrobe-and-prop-references",
+  "packages": [
+    {
+      "file": "batch-images.zip",
+      "sha256": "9a80e2da8b2b988af61933bc20d3db2adfc5f120ce78d1cbd7469886b56cb742",
+      "size": 23329766,
+      "entries": 38
+    }
+  ],
+  "files": [
+    {
+      "path": "media/originals/atlas-261112-wardrobe-blue-stage.webp",
+      "sha": "02c258892e74c74b55a500e7aebc0fda92fd3412",
+      "beforeSha": null
+    },
+    {
+      "path": "media/originals/atlas-261112-wardrobe-coral-dress.webp",
+      "sha": "b517db416a4c26a695ccb77873050964207c3d43",
+      "beforeSha": null
+    },
+    {
+      "path": "media/originals/atlas-261112-wardrobe-desert-archive.webp",
+      "sha": "8008f3aa9a72058cb52f848883db34d4aab96d2c",
+      "beforeSha": null
+    },
+    {
+      "path": "media/originals/atlas-261112-wardrobe-hood-denim.webp",
+      "sha": "c1ad4c24b016505823e5086c0c70c0c724f5a66c",
+      "beforeSha": null
+    },
+    {
+      "path": "media/originals/atlas-261112-wardrobe-navy-warmup.webp",
+      "sha": "14dc8f8a5639860ec262c93c902006f027baa73b",
+      "beforeSha": null
+    },
+    {
+      "path": "media/originals/atlas-261112-wardrobe-oatmeal-skirt.webp",
+      "sha": "a8d141fbf9a0d9cbcef695ef543a5a7018601f73",
+      "beforeSha": null
+    },
+    {
+      "path": "media/originals/atlas-261112-wardrobe-patch-denim.webp",
+      "sha": "3170f0ed5bc82806ac6b80f0dc04ce9be324f438",
+      "beforeSha": null
+    },
+    {
+      "path": "media/originals/atlas-261112-wardrobe-phoenix-stage-robe.webp",
+      "sha": "1fb6317cee6db0bd947ed09d94dd571e2e9bded6",
+      "beforeSha": null
+    },
+    {
+      "path": "media/originals/atlas-261112-wardrobe-stone-hall.webp",
+      "sha": "1374040b00e11708ebfb3fdf6c8a7b6f99c3a527",
+      "beforeSha": null
+    },
+    {
+      "path": "media/originals/atlas-261112-wardrobe-tweed-grid.webp",
+      "sha": "0593c6a754ec09faedf95f125b3307e51706d0f4",
+      "beforeSha": null
+    },
+    {
+      "path": "media/originals/atlas-261112-wardrobe-velvet-drape.webp",
+      "sha": "9b71e9ba38212800276b05080cfbdc913c4ea188",
+      "beforeSha": null
+    },
+    {
+      "path": "media/originals/atlas-261112-weapon-amber-maul.webp",
+      "sha": "4d8e35b9b305a3f96634e66cb95bde0ae78d8e08",
+      "beforeSha": null
+    },
+    {
+      "path": "media/originals/atlas-261112-weapon-coral-retro.webp",
+      "sha": "ac8dccd40c270809295caefd554e12628ef4cb12",
+      "beforeSha": null
+    },
+    {
+      "path": "media/originals/atlas-261112-weapon-jade-ge.webp",
+      "sha": "55ea7e56ce17fecaa69877df1079a2e5c96f9003",
+      "beforeSha": null
+    },
+    {
+      "path": "media/originals/atlas-261112-weapon-keris.webp",
+      "sha": "cd5be9fdce63a4ab366a8bb11bde58c3e34935a6",
+      "beforeSha": null
+    },
+    {
+      "path": "media/originals/atlas-261112-weapon-lapis-sheath.webp",
+      "sha": "c2b9243df8dc7b0b4c8020f51e68f4f546a05daf",
+      "beforeSha": null
+    },
+    {
+      "path": "media/originals/atlas-261112-weapon-persian-shield.webp",
+      "sha": "3c63dc17d9618ae91a0e366422f3b9ae8ca6133c",
+      "beforeSha": null
+    },
+    {
+      "path": "media/originals/atlas-261112-weapon-violet-ring.webp",
+      "sha": "18edcd9265339aa432e3bc14c4f9d78d524e0b53",
+      "beforeSha": null
+    },
+    {
+      "path": "media/originals/atlas-261112-weapon-wave-silver.webp",
+      "sha": "eb5fb3c46960eb28aac368467c50737be069ae05",
+      "beforeSha": null
+    },
+    {
+      "path": "media/previews/atlas-261112-wardrobe-blue-stage.webp",
+      "sha": "bb08745d6fd6514ffe03e94423759df8d5b62188",
+      "beforeSha": null
+    },
+    {
+      "path": "media/previews/atlas-261112-wardrobe-coral-dress.webp",
+      "sha": "9cea9f499f78278b04e4353845dd56ac9726fafc",
+      "beforeSha": null
+    },
+    {
+      "path": "media/previews/atlas-261112-wardrobe-desert-archive.webp",
+      "sha": "d0899e226ef349030896c43138e979aba989361e",
+      "beforeSha": null
+    },
+    {
+      "path": "media/previews/atlas-261112-wardrobe-hood-denim.webp",
+      "sha": "9da9e1422b48c91746a366c4a69ec377c29427bc",
+      "beforeSha": null
+    },
+    {
+      "path": "media/previews/atlas-261112-wardrobe-navy-warmup.webp",
+      "sha": "736959dc6092f7a14729f53f99a8da10122555a4",
+      "beforeSha": null
+    },
+    {
+      "path": "media/previews/atlas-261112-wardrobe-oatmeal-skirt.webp",
+      "sha": "11b6d9dc75fe92441a7ef477a9b7a3543b7ea8a7",
+      "beforeSha": null
+    },
+    {
+      "path": "media/previews/atlas-261112-wardrobe-patch-denim.webp",
+      "sha": "080a1e9f30a45de21c2e6980ca20bfb8eb0ce11b",
+      "beforeSha": null
+    },
+    {
+      "path": "media/previews/atlas-261112-wardrobe-phoenix-stage-robe.webp",
+      "sha": "f8c009334f0ea29022e87185d52b94b8c3066ca5",
+      "beforeSha": null
+    },
+    {
+      "path": "media/previews/atlas-261112-wardrobe-stone-hall.webp",
+      "sha": "95d918ea87448a4896c52ff3704e388bd64fe488",
+      "beforeSha": null
+    },
+    {
+      "path": "media/previews/atlas-261112-wardrobe-tweed-grid.webp",
+      "sha": "418baa6256c113f8839a38a5ed450fd51888dd57",
+      "beforeSha": null
+    },
+    {
+      "path": "media/previews/atlas-261112-wardrobe-velvet-drape.webp",
+      "sha": "7b6cd7de9f4ddb772518e54138109b73498983e7",
+      "beforeSha": null
+    },
+    {
+      "path": "media/previews/atlas-261112-weapon-amber-maul.webp",
+      "sha": "661db457cf2cac093cacaeac7d0a7718fe9a498e",
+      "beforeSha": null
+    },
+    {
+      "path": "media/previews/atlas-261112-weapon-coral-retro.webp",
+      "sha": "26167efefccb17b0347877746b528348d39d5306",
+      "beforeSha": null
+    },
+    {
+      "path": "media/previews/atlas-261112-weapon-jade-ge.webp",
+      "sha": "895387b4da9a16407a65d9aa3bf4a476507eb05f",
+      "beforeSha": null
+    },
+    {
+      "path": "media/previews/atlas-261112-weapon-keris.webp",
+      "sha": "e4aa16cdc4b288ee9ed212e1c5126cb3ee42a03c",
+      "beforeSha": null
+    },
+    {
+      "path": "media/previews/atlas-261112-weapon-lapis-sheath.webp",
+      "sha": "a3d94aaf94f8a37e0a01f68fc6dc62ec584b3d50",
+      "beforeSha": null
+    },
+    {
+      "path": "media/previews/atlas-261112-weapon-persian-shield.webp",
+      "sha": "d166e0fdb61413790cb9db4c264425d1ae8f668f",
+      "beforeSha": null
+    },
+    {
+      "path": "media/previews/atlas-261112-weapon-violet-ring.webp",
+      "sha": "529224b1ccf5cf4bf84222e5dac0d799306c2b52",
+      "beforeSha": null
+    },
+    {
+      "path": "media/previews/atlas-261112-weapon-wave-silver.webp",
+      "sha": "eab207ae1e3c3780c9bfc041a9fa87cd1ed5ce7e",
+      "beforeSha": null
+    }
+  ]
 }
