@@ -1,53 +1,5 @@
 {
-  "tag": "atlas-20261111-fixed-frames",
-  "packages": [
-    {
-      "file": "fixed-frame-images.zip",
-      "sha256": "987535a3fcc2d806824d0c1ee7d7c7471cac1c997962c415bdc85e1e49ea640d",
-      "size": 1550108,
-      "entries": 8
-    }
-  ],
-  "files": [
-    {
-      "path": "media/originals/atlas-261111c-motion-champion-bell.webp",
-      "sha": "6fb2a7366ea76b6e6db3db53a30e9ab9f80eae42",
-      "beforeSha": null
-    },
-    {
-      "path": "media/originals/atlas-261111c-motion-charge-listen.webp",
-      "sha": "806af1d429cc3318beb5ee823cba1bc47efd4271",
-      "beforeSha": null
-    },
-    {
-      "path": "media/originals/atlas-261111c-motion-hero-rooftop.webp",
-      "sha": "07ecd76ae6389ba251bbc2cc47b35a8401028f79",
-      "beforeSha": null
-    },
-    {
-      "path": "media/originals/atlas-261111c-motion-sintel-turn.webp",
-      "sha": "c36b197bc316b0d8331ba4a8f8ad79e221041594",
-      "beforeSha": null
-    },
-    {
-      "path": "media/previews/atlas-261111c-motion-champion-bell.webp",
-      "sha": "88b0889f7e7ef25cca2193962651044de9a644af",
-      "beforeSha": null
-    },
-    {
-      "path": "media/previews/atlas-261111c-motion-charge-listen.webp",
-      "sha": "cb1cca04b61148f8a18b397986aba30a2a909f40",
-      "beforeSha": null
-    },
-    {
-      "path": "media/previews/atlas-261111c-motion-hero-rooftop.webp",
-      "sha": "8c889ce3060d448f3cfe899dde2f0a472a6d4560",
-      "beforeSha": null
-    },
-    {
-      "path": "media/previews/atlas-261111c-motion-sintel-turn.webp",
-      "sha": "f30bbe2dbdb8cedd1a04cd9875b5de4391698356",
-      "beforeSha": null
-    }
-  ]
+  "tag": "atlas-20261112-withdraw-action-references",
+  "packages": [],
+  "files": []
 }
