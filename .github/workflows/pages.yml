@@ -70,6 +70,16 @@ jobs:
                   if len(package.namelist())!=len(allowed) or set(package.namelist())!=allowed:
                       raise RuntimeError('Unexpected file in collection overlay')
                   package.extractall(root)
+          desktop=manifest.get('desktop_gallery_overlay')
+          if desktop:
+              addon=(root/desktop['file']).resolve()
+              if not addon.is_relative_to(root/'releases') or hashlib.sha256(addon.read_bytes()).hexdigest()!=desktop['sha256']:
+                  raise RuntimeError('Desktop gallery overlay verification failed')
+              allowed={'app.js','styles.css','prompt-collection.js','prompt-collection.css','data/prompt-collection/curated.json'}
+              with zipfile.ZipFile(addon) as package:
+                  if len(package.namelist())!=len(allowed) or set(package.namelist())!=allowed:
+                      raise RuntimeError('Unexpected file in desktop gallery overlay')
+                  package.extractall(root)
           PY
       - name: Set up Node.js
         uses: actions/setup-node@v4
