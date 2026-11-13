@@ -60,6 +60,16 @@ jobs:
                   target=(root/entry.filename).resolve()
                   if not target.is_relative_to(root):raise RuntimeError('Unsafe source path')
               package.extractall(root)
+          extra=manifest.get('collection_overlay')
+          if extra:
+              addon=(root/extra['file']).resolve()
+              if not addon.is_relative_to(root/'releases') or hashlib.sha256(addon.read_bytes()).hexdigest()!=extra['sha256']:
+                  raise RuntimeError('Collection overlay verification failed')
+              allowed={'prompt-collection.js','prompt-collection.css','data/prompt-collection/curated.json'}
+              with zipfile.ZipFile(addon) as package:
+                  if len(package.namelist())!=len(allowed) or set(package.namelist())!=allowed:
+                      raise RuntimeError('Unexpected file in collection overlay')
+                  package.extractall(root)
           PY
       - name: Set up Node.js
         uses: actions/setup-node@v4
