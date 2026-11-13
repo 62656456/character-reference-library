@@ -85,7 +85,7 @@ jobs:
               addon=(root/full['file']).resolve()
               if not addon.is_relative_to(root/'releases') or hashlib.sha256(addon.read_bytes()).hexdigest()!=full['sha256']:
                   raise RuntimeError('Full desktop overlay verification failed')
-              allowed={'app.js','styles.css','account.js','support-panel.js','prompt-collection.css','tools.css','runway-studio.css','scripts/build-discovery-pages.mjs','assets/discovery/collections.css'}
+              allowed={'app.js','styles.css','account.js','support-panel.js','prompt-collection.css','tools.css','runway-studio.css','scripts/build-discovery-pages.mjs','assets/discovery/collections.css','runway-studio.js'}
               with zipfile.ZipFile(addon) as package:
                   if len(package.namelist())!=len(allowed) or set(package.namelist())!=allowed:
                       raise RuntimeError('Unexpected file in full desktop overlay')
