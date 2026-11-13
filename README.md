@@ -6,6 +6,8 @@
 **[新衣装与配饰 ↗](https://62656456.github.io/character-reference-library/collections/latest-wardrobe/)** · 21 件现代、复古和架空造型参考。  
 **[武器外观 ↗](https://62656456.github.io/character-reference-library/collections/weapon-appearance/)** · 8 件馆藏外观、玩具和架空陈列道具参考。
 
+**[精选提示词案例 ↗](https://62656456.github.io/character-reference-library/#view=prompts&pview=curated)** · 16 条，按作者标注的模型查找出处。 [案例索引](PROMPT-CASES.md)
+
 每条详情保留素材出处和使用范围。[图片使用说明](ASSET-LICENSE.md) · [近期发布](https://github.com/62656456/character-reference-library/releases)
 
 <table>
@@ -54,6 +56,8 @@
 浏览已有图片与本地调色不需要生图密钥。生成新图片使用访问者自己配置的图片服务与额度，只有明确点击生成才发送请求；密钥只保留在当前页面内存，不进入图片仓库。
 
 ## 提示词灵感
+
+[精选案例](https://62656456.github.io/character-reference-library/#view=prompts&pview=curated)单独整理作者发布的提示词证据与使用条件。[查看案例索引](PROMPT-CASES.md)
 
 [提示词灵感页](https://62656456.github.io/character-reference-library/#view=prompts)独立整理 **1489 篇图文记录与 2640 张来源展示图**，不计入上面的角色素材数量。可按主题、模型与关键词查找，查看多张配图、复制提示词、收藏记录或导出筛选结果。
 
